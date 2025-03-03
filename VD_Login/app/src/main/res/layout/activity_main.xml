@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#E410E4">
+
+    <!-- Thanh tiêu đề -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#E7DEC8"
+        android:gravity="center"
+        android:text="Nguyễn Quang Đạt"
+        android:textStyle="bold"
+        android:textColor="#757171"
+        android:textSize="18sp" />
+
+    <!-- Tiêu đề chính -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TRANG CHỦ"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#1AE91A"
+        android:layout_marginTop="50dp" />
+
+    <!-- Nút đăng nhập -->
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ĐĂNG NHẬP"
+        android:textAllCaps="false"
+        android:textColor="#ED3737"
+        android:backgroundTint="#67D167"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"/>
+</LinearLayout>
