@@ -27,7 +27,7 @@
 
 # Ví dụ chuyển màn hình 
 
-![Image](https://github.com/user-attachments/assets/fba89c27-5a81-4551-aa73-b8709c7929fd)
+![Image](https://github.com/user-attachments/assets/fba89c27-5a81-4551-aa73-b8709c7929fd) | ![Image](https://github.com/user-attachments/assets/f871ec90-31e8-4597-a6eb-2e35a82a8261)
 
 ![Image](https://github.com/user-attachments/assets/f871ec90-31e8-4597-a6eb-2e35a82a8261)
 
