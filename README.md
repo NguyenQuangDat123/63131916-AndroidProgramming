@@ -41,6 +41,11 @@
 
 ![Image](https://github.com/user-attachments/assets/ef99455a-d7f0-4b46-aeab-0f07c741b892) | ![Image](https://github.com/user-attachments/assets/f50decad-eebe-4ae9-b01c-73a081194fda)
 
+# Trắc nghiệm 
+
+![Image](https://github.com/user-attachments/assets/31bee953-e20b-4a96-bd21-c472f3884c72)
+
+![Image](https://github.com/user-attachments/assets/1080326e-62e9-4a44-9204-4c79fe679238) | ![Image](https://github.com/user-attachments/assets/ce07abce-da8b-4423-8e3f-19a1fe5e6852)
 
 # 📫 How to reach me:
 
