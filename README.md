@@ -1,4 +1,4 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+![image](https://github.com/user-attachments/assets/261a4da7-3154-46f2-8e7d-f7ee9a9ea25d)<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
@@ -24,6 +24,12 @@
 # App tính toán sử dụng Anynomous
 
 ![Image](https://github.com/user-attachments/assets/7715e9d9-960e-4522-a02f-64374050f2b4)
+
+# Ví dụ chuyển màn hình 
+
+![Image](https://github.com/user-attachments/assets/fba89c27-5a81-4551-aa73-b8709c7929fd)
+
+![Image](https://github.com/user-attachments/assets/f871ec90-31e8-4597-a6eb-2e35a82a8261)
 
 # 📫 How to reach me:
 
