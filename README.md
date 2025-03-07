@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/261a4da7-3154-46f2-8e7d-f7ee9a9ea25d)<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
