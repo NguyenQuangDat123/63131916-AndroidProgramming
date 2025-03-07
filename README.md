@@ -3,9 +3,9 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Quang Đat </h2>
-<h2 align="center">Hi 👋, Lớp K63-MMT </h2>
-<h2 align="center">Hi 👋, Lập trình thiết bị di động </h2>
-<h2 align="center">Hi 👋, Trường Đại Học Nha Trang </h2>
+<h2 align="center"> Lớp K63-MMT </h2>
+<h2 align="center"> Lập trình thiết bị di động </h2>
+<h2 align="center"> Trường Đại Học Nha Trang </h2>
 <p align="center">
   <h3 align="center">I am a student of Information Technology at Nha Trang University 🇻🇳 </h3>
 </p>
