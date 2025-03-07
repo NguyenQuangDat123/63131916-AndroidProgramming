@@ -33,7 +33,7 @@
 
 ![Image](https://github.com/user-attachments/assets/37bedce1-4c01-4800-aa8f-dc2d488992c7)
 
-![Image](https://github.com/user-attachments/assets/68940c5e-ba77-40ec-b005-52b2f2912669 | ![Image](https://github.com/user-attachments/assets/fccbdaa4-55cd-4656-8110-32721b71b406)
+![Image](https://github.com/user-attachments/assets/68940c5e-ba77-40ec-b005-52b2f2912669) | ![Image](https://github.com/user-attachments/assets/fccbdaa4-55cd-4656-8110-32721b71b406)
 
 # 📫 How to reach me:
 
