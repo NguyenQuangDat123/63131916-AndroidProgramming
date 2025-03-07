@@ -29,7 +29,11 @@
 
 ![Image](https://github.com/user-attachments/assets/fba89c27-5a81-4551-aa73-b8709c7929fd) | ![Image](https://github.com/user-attachments/assets/f871ec90-31e8-4597-a6eb-2e35a82a8261)
 
+# App tính chu vi, diện tích
 
+![Image](https://github.com/user-attachments/assets/37bedce1-4c01-4800-aa8f-dc2d488992c7)
+
+![Image](https://github.com/user-attachments/assets/68940c5e-ba77-40ec-b005-52b2f2912669 | ![Image](https://github.com/user-attachments/assets/fccbdaa4-55cd-4656-8110-32721b71b406)
 
 # 📫 How to reach me:
 
