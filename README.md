@@ -43,9 +43,9 @@
 
 # Trắc nghiệm 
 
-![Image](https://github.com/user-attachments/assets/31bee953-e20b-4a96-bd21-c472f3884c72)
+![Image](https://github.com/user-attachments/assets/1a3c7849-12ff-47b8-ae6e-a4f665b15b40) | ![Image](https://github.com/user-attachments/assets/b076e56b-8f99-41bd-9d90-40f93038df35)
 
-![Image](https://github.com/user-attachments/assets/1080326e-62e9-4a44-9204-4c79fe679238) | ![Image](https://github.com/user-attachments/assets/ce07abce-da8b-4423-8e3f-19a1fe5e6852)
+![Image](https://github.com/user-attachments/assets/dac56834-ca06-4fe4-af6f-27c0239042f9) | ![Image](https://github.com/user-attachments/assets/8e481932-0a6b-42b3-aebd-af5ec18a1886)
 
 # 📫 How to reach me:
 
