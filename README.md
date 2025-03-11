@@ -52,6 +52,10 @@
 
 ![Image](https://github.com/user-attachments/assets/a6a77ad3-8ba8-4846-9231-515816c5edb9) | ![Image](https://github.com/user-attachments/assets/de102999-ed9a-494b-84e1-54dd24d8de7f)
 
+# Thêm icon nốt nhạc bên cạnh mỗi bài hát được thêm vào
+
+![Image](https://github.com/user-attachments/assets/24b06372-2437-489e-aab7-e2eebbd8d1be)
+
 # 📫 How to reach me:
 
   </a>
