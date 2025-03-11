@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FAF1F1">
+
+    <!-- Nhập tên bài hát -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nhập tên bài hát:"
+            android:textSize="16sp"
+            android:textColor="#0B0000" />
+
+        <EditText
+            android:id="@+id/edtSongName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Nhập tên bài hát tại đây"
+            android:background="@android:color/transparent"
+            android:textColor="#555555"
+            android:textSize="20sp"
+            android:padding="8dp"/>
+    </LinearLayout>
+
+    <!-- Nút Thêm, Sửa, Xóa -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm"
+            android:backgroundTint="#312926"
+            android:textColor="@android:color/white"
+            android:padding="10dp" />
+
+        <Button
+            android:id="@+id/btnEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sửa"
+            android:backgroundTint="#312926"
+            android:textColor="@android:color/white"
+            android:padding="10dp"
+            android:layout_marginStart="10dp" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Xóa"
+            android:backgroundTint="#312926"
+            android:textColor="@android:color/white"
+            android:padding="10dp"
+            android:layout_marginStart="10dp" />
+    </LinearLayout>
+
+    <!-- Danh sách bài hát -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DANH SÁCH BÀI HÁT HIỆN CÓ"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#333333"
+        android:gravity="center"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 Bài hát"
+        android:textSize="14sp"
+        android:textColor="#333333"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <ListView
+        android:id="@+id/lvSongs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:layout_marginTop="15dp"/>
+</LinearLayout>
+
