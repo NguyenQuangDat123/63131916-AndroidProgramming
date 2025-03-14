@@ -56,6 +56,14 @@
 
 ![Image](https://github.com/user-attachments/assets/24b06372-2437-489e-aab7-e2eebbd8d1be)
 
+# View Layout nâng cao
+
+![Image](https://github.com/user-attachments/assets/8450f93c-ddec-4cfa-b8df-1a2c67ed8cbe)
+
+# Login Screen
+
+![Image](https://github.com/user-attachments/assets/3dae2449-bd79-4d63-b93f-e763cafb176e)
+
 # 📫 How to reach me:
 
   </a>
