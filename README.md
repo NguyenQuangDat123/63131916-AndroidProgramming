@@ -64,6 +64,10 @@
 
 ![Image](https://github.com/user-attachments/assets/3dae2449-bd79-4d63-b93f-e763cafb176e)
 
+# Modern Dashboard
+
+![Image](https://github.com/user-attachments/assets/f77883b0-ea48-4a4b-afed-a57af501f1f6)
+
 # 📫 How to reach me:
 
   </a>
