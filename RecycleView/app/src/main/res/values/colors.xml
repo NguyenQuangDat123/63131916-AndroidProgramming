@@ -5,4 +5,6 @@
     <color name="background">#F5F5F5</color>
     <color name="item_background">#E8F5E9</color>
     <color name="white">#FFFFFF</color>
+    <color name="tech_blue">#0A84FF</color>
+    <color name="tech_glow">#33A1F7</color>
 </resources>
