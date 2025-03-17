@@ -38,7 +38,7 @@ public class DialogAddEdit extends Dialog {
         btnSave.setOnClickListener(v -> {
             String name = edtName.getText().toString();
             if (position == -1) {
-                list.add(new ChienCo(R.drawable.tiemkick, name));
+                list.add(new ChienCo(R.drawable.tiemkich, name));
             } else {
                 list.get(position).setName(name);
             }
