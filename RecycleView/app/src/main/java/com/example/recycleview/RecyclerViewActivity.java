@@ -29,7 +29,7 @@ public class RecyclerViewActivity extends AppCompatActivity {
         String type = getIntent().getStringExtra("type");
 
         if ("chienco".equals(type)) {
-            chienCoList.add(new ChienCo(R.drawable.tiemkick, "Tiêm Kích"));
+            chienCoList.add(new ChienCo(R.drawable.tiemkich, "Tiêm Kích"));
             chienCoList.add(new ChienCo(R.drawable.tiachop, "Tia Chớp"));
             chienCoList.add(new ChienCo(R.drawable.unglua, "Ưng Lửa"));
             chienCoList.add(new ChienCo(R.drawable.bongma, "Bóng Ma"));
