@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+
+    <ImageView
+        android:id="@+id/cloud1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/cloud1" />
+
+    <ImageView
+        android:id="@+id/cloud2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="-105dp"
+        android:src="@drawable/cloud2" />
+
+    <ImageView
+        android:id="@+id/group"
+        android:layout_width="283dp"
+        android:layout_height="200dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="-1dp"
+        android:src="@drawable/group" />
+
+    <ImageView
+        android:id="@+id/person1"
+        android:layout_width="wrap_content"
+        android:layout_height="122dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="412dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="215dp"
+        android:layout_marginBottom="270dp"
+        android:src="@drawable/person1" />
+
+    <ImageView
+        android:id="@+id/puzzle"
+        android:layout_width="352dp"
+        android:layout_height="153dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="184dp"
+        android:layout_marginEnd="359dp"
+        android:layout_marginBottom="73dp"
+        android:src="@drawable/puzzle" />
+
+    <ImageView
+        android:id="@+id/piece1"
+        android:layout_width="123dp"
+        android:layout_height="274dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-45dp"
+        android:layout_marginEnd="246dp"
+        android:layout_marginBottom="181dp"
+        android:src="@drawable/piece1" />
+
+    <ImageView
+        android:id="@+id/tatos"
+        android:layout_width="wrap_content"
+        android:layout_height="123dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="563dp"
+        android:layout_marginBottom="266dp"
+        android:src="@drawable/tatos" />
+</RelativeLayout>
