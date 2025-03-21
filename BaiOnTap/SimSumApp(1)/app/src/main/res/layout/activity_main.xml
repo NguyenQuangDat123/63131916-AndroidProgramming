@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Nhập số a -->
+    <TextView
+        android:layout_width="29dp"
+        android:layout_height="wrap_content"
+        android:text="a" />
+
+    <!-- Nhập số b -->
+    <EditText
+        android:id="@+id/edtA"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:inputType="number" />
+
+    <TextView
+        android:layout_width="29dp"
+        android:layout_height="30dp"
+        android:text="b" />
+
+    <EditText
+        android:id="@+id/edtB"
+        android:layout_width="357dp"
+        android:layout_height="wrap_content"
+        android:inputType="number" />
+
+    <!-- Nút tính tổng -->
+    <Button
+        android:id="@+id/btnCong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Tính Tổng" />
+
+    <!-- Hiển thị kết quả -->
+    <TextView
+        android:layout_width="73dp"
+        android:layout_height="43dp"
+        android:text="Kết quả:" />
+
+    <EditText
+        android:id="@+id/edtKQ"
+        android:layout_width="365dp"
+        android:layout_height="65dp"
+        android:focusable="false"
+        android:inputType="none" />
+
+</LinearLayout>

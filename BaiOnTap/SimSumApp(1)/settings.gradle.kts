@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LinearLayout(1)"
+rootProject.name = "SimpleSumApp(1)"
 include(":app")
  

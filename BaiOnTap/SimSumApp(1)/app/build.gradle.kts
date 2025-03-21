@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.linearlayout1"
+    namespace = "com.example.simplesumapp1"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.linearlayout1"
+        applicationId = "com.example.simplesumapp1"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
