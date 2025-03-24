@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ba4559-1ab7-4ba9-b5e8-65e25692e36e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Figma_Kid_Learning/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Figma_Kid_Learning/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figma_Kid_Learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Figma_Kid_Learning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Figma_Puzzle/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Figma_Puzzle/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListViewBaiHat_Caitien2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFragments/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFragments/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NavigationDrawer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NavigationDrawer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../So_ngau_nhien/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../So_ngau_nhien/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tetris/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VD_Figma/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VD_Figma/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uclqc6laC4jyZ2n2yJHBNxalAu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ba4559-1ab7-4ba9-b5e8-65e25692e36e" name="Changes" comment="" />
+      <created>1742555938419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742555938419</updated>
+    </task>
+    <servers />
+  </component>
+</project>
