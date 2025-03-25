@@ -68,6 +68,32 @@
 
 ![Image](https://github.com/user-attachments/assets/f77883b0-ea48-4a4b-afed-a57af501f1f6)
 
+# Giao diện RecycleView sử dụng GridLayout
+
+![Image](https://github.com/user-attachments/assets/9a0b7342-d67f-4c01-b0cb-19a4073808fc)
+
+![Image](https://github.com/user-attachments/assets/eb7c91f9-6c11-4bea-bfe1-2f4624152037)
+
+![Image](https://github.com/user-attachments/assets/bbc7b8c8-643c-4668-a67d-d92254865424) | ![Image](https://github.com/user-attachments/assets/ba762af4-ca6d-4b15-842e-e3ff6885e8f3)
+
+# Giao diện Fragments 
+
+![Image](https://github.com/user-attachments/assets/27a9fa1e-253d-4810-93e7-822a9bc5163c)
+
+![Image](https://github.com/user-attachments/assets/f3aa0744-f4c7-4d9c-92c0-281ecd7bc942) | ![Image](https://github.com/user-attachments/assets/7fb4e085-8fae-4cbc-ad95-3cd8947790ab)
+
+# Sử dụng Figma hoàn thành giao diện yêu cầu
+
+![Image](https://github.com/user-attachments/assets/497ca9f2-af9c-4e29-9999-69d551ad57ea)
+
+# Luyện tập Figma
+
+![Image](https://github.com/user-attachments/assets/389ce5fd-8595-480e-99e5-4d8e52cc2d87)
+
+# Using recyclerview 
+
+![Image](https://github.com/user-attachments/assets/2597c210-b16c-48c4-80b7-2823f9ec23c4)
+
 # 📫 How to reach me:
 
   </a>
