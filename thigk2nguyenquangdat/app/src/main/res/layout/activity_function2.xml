@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <!-- Header -->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:background="@drawable/wave_background">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:src="@drawable/wave_vector"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:layout_width="119dp"
+                android:layout_height="89dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="Quiz"
+                android:textSize="34sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="153dp"
+                android:layout_height="104dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="7dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="16dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/logo50nam" />
+        </RelativeLayout>
+
+        <!-- Câu hỏi -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mốc thời gian Chiến dịch\nHỒ CHÍ MINH - Toàn thắng"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="16dp" />
+
+        <!-- Nhập tháng -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tháng"
+                android:textSize="16sp"
+                android:layout_marginEnd="8dp" />
+
+            <EditText
+                android:id="@+id/edtThang"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/box_input"
+                android:padding="12dp"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <!-- Nhập năm -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Năm"
+                android:textSize="16sp"
+                android:layout_marginEnd="16dp" />
+
+            <EditText
+                android:id="@+id/edtNam"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/box_input"
+                android:padding="12dp"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <!-- Nút kiểm tra -->
+        <Button
+            android:id="@+id/btnCheck"
+            android:layout_width="308dp"
+            android:layout_height="68dp"
+            android:layout_marginTop="24dp"
+            android:text="Kiểm tra Đúng/Sai" />
+
+        <!-- Kết quả hiển thị trong khung -->
+        <TextView
+            android:id="@+id/txtKetQua"
+            android:layout_width="387dp"
+            android:layout_height="73dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/box_input"
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="Hiện kết quả ở đây"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</ScrollView>
