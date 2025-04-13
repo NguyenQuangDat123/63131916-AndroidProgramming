@@ -94,6 +94,20 @@
 
 ![Image](https://github.com/user-attachments/assets/2597c210-b16c-48c4-80b7-2823f9ec23c4)
 
+# Labs-13.1: Fragments
+
+![Image](https://github.com/user-attachments/assets/739dd41d-3007-45a9-ad10-d88b7f877eee)
+
+# Labs-13.2: Fragments Dynamically
+
+![Image](https://github.com/user-attachments/assets/79e74a48-c073-4bb5-b2ee-f5bbd91f7d4a)
+
+# Labs-13.3: Fragments Replacing
+
+![Image](https://github.com/user-attachments/assets/ae332857-99ce-4cb8-a2aa-0db25a4b0ea5)
+
+![Image](https://github.com/user-attachments/assets/c8967827-ac69-4016-8028-0bfd7ee92757) | ![Image](https://github.com/user-attachments/assets/f409b57d-4234-4f1c-b5f8-e7e419305e36)
+
 # 📫 How to reach me:
 
   </a>
