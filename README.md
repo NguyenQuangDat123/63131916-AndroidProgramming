@@ -108,6 +108,22 @@
 
 ![Image](https://github.com/user-attachments/assets/c8967827-ac69-4016-8028-0bfd7ee92757) | ![Image](https://github.com/user-attachments/assets/f409b57d-4234-4f1c-b5f8-e7e419305e36)
 
+# Ôn tập Fragments 
+
+![Image](https://github.com/user-attachments/assets/0e45c400-6d8e-45d3-92a4-a2bf8d17958c)
+
+![Image](https://github.com/user-attachments/assets/877b5fc0-d501-4176-a289-6dfe9f7c2b03) | ![Image](https://github.com/user-attachments/assets/8e41c78e-1850-43de-aed5-9629c23b811f)
+
+# Bài tập bottom_nav
+
+![Image](https://github.com/user-attachments/assets/7af11670-c7d1-42c4-881e-7f681370e5f3)
+
+![Image](https://github.com/user-attachments/assets/fa35c83c-b4ba-4817-b853-56b9430981d1) | ![Image](https://github.com/user-attachments/assets/74cf303b-86d9-46f5-871f-9a336253f55d)
+
+# Bài tập Appbar
+
+![Image](https://github.com/user-attachments/assets/3d0f4a75-337f-41de-a76c-7b20d72f8c12)
+
 # 📫 How to reach me:
 
   </a>
