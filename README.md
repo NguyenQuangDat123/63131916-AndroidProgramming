@@ -124,6 +124,10 @@
 
 ![Image](https://github.com/user-attachments/assets/3d0f4a75-337f-41de-a76c-7b20d72f8c12)
 
+# Bài tập Navigation Drawer
+
+![Image](https://github.com/user-attachments/assets/778ac95b-a9f6-4997-84a0-b234c20a1ba4) | ![Image](https://github.com/user-attachments/assets/6490ddaf-bee9-479f-b65f-f11ee81fabdc)
+
 # 📫 How to reach me:
 
   </a>
